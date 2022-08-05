@@ -1,26 +1,9 @@
 <?php
 
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
-echo 'teste';
 
+#comentario aqui
+echo '<br>';
+
+echo 'alteracoes aqui';
+echo 'alteracoes aqui';
 echo 'alteracoes aqui';
